@@ -1,2 +1,2 @@
 ﻿# ownDependency
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/cz.jirutka.rsql/rsql-parser/badge.svg)](https://maven-badges.herokuapp.com/maven-central/cz.jirutka.rsql/rsql-parser)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.fgutzy/ownDependency/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.fgutzy/ownDependency)
